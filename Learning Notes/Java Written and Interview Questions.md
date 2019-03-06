@@ -39,13 +39,13 @@
 
 4. 刷题
 
-   [java基础常见笔试题总结](https://blog.csdn.net/qq_16633405/article/details/79211002)
+  [java基础常见笔试题总结](https://blog.csdn.net/qq_16633405/article/details/79211002)
 
-   [Java常见笔试及面试考点总结](https://blog.csdn.net/hellorichen/article/details/52816183)
+  [Java常见笔试及面试考点总结](https://blog.csdn.net/hellorichen/article/details/52816183)
 
-   [java基础知识点、面试选择题归纳整理](https://blog.csdn.net/weixin_30531261/article/details/79019550)
+  [java基础知识点、面试选择题归纳整理](https://blog.csdn.net/weixin_30531261/article/details/79019550)
 
-   [【面试笔试】Java常见面试笔试总结](https://blog.csdn.net/jianyuerensheng/article/details/51219679)
+  [【面试笔试】Java常见面试笔试总结](https://blog.csdn.net/jianyuerensheng/article/details/51219679)
 
   [面向对象的三个基本特征 和 五种设计原则](https://blog.csdn.net/cancan8538/article/details/8057095)
 
@@ -70,3 +70,11 @@
   [Java多线程的简介](https://blog.csdn.net/qq_40793275/article/details/80632490)
 
   [java中的锁简介](https://blog.csdn.net/weixin_42090508/article/details/80191513)
+
+5. Java面试题
+
+  [新鲜出炉的一套Java面试题](https://juejin.im/post/5c7649476fb9a049d51a2b84)
+
+  [Java 208 道面试题：Java 基础模块答案](https://www.imooc.com/article/281496)
+
+  [Java 学习/面试指南](https://github.com/Snailclimb/JavaGuide)
